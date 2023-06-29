@@ -26,4 +26,14 @@ header {
         color: white;
         display: flex;
     }
-  
+    .escola-conteudo{
+        width: 35%;
+        
+       display:flex;
+       justify-content: center;
+       justify-content: center;
+       align-items: center;
+       align-items: center;
+       padding: 24px 0;
+       align-items: center;
+       padding: 24px 0;}
